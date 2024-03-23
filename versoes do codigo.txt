@@ -1,0 +1,3 @@
+git reflog
+##aparece um código antes das versoes
+git reset --hard (código da versão desejada)
