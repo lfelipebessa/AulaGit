@@ -1,1 +1,2 @@
 O merge puxa as informações do branch que voce digitou para o que voce está
+Digitou -> Atual
